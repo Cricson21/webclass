@@ -1,0 +1,87 @@
+
+body {
+background: gray;
+}
+header {
+   color: whitesmoke;
+   text-align: center;
+   
+}
+h2{
+	 color: whitesmoke;
+   text-align: center;
+  
+}
+ul{
+	list-style: none;
+}
+li{
+	display: inline-block;
+
+	font-size: 40px;
+
+}
+
+.navbar{
+
+	text-align: centre;
+	text-decoration-style: solid;
+}
+
+
+body h1{
+	text-align: centre;
+	text-decoration-style: solid;
+}
+
+.Division{
+
+	background: gray;
+	width: 40%;
+	text-decoration-color: blue;
+	float: left;
+	padding: 2%;
+}
+
+
+.Division{
+
+	background: gray;
+	width: 40%;
+	text-decoration-color: blue;
+	float: left;
+	padding: 2%;
+}
+button{
+	padding: 2px;
+	margin: none;
+	border: none;
+	border-radius: 5px;
+	background-color: skyblue;
+}
+ul{
+	float: left;
+	color: whitesmoke;}
+
+
+body .contact{
+	
+	text-align: centre;
+	text-decoration-style: solid;
+}
+
+.Division{
+
+	background: gray;
+	width: 40%;
+	text-decoration-color: blue;
+	float: left;
+	padding: 2%;
+}
+ul{
+	float: left;
+	color: whitesmoke;
+}
+
+
+
