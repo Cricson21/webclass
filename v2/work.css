@@ -75,6 +75,10 @@ button{
     height: 316px;
     background-image: ;
     display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 2fr 2fr 1fr 4fr 1fr;
+    grid-gap: 0px;
+    padding: 0px;
 
 }
 .sec3 > div {
@@ -83,6 +87,19 @@ button{
   padding: 20px 0;
   font-size: 30px;
   border: solid;
+}
+
+.day1{
+    background: gray;
+}
+.day2{
+    background: whitesmoke;
+}
+.day3{
+    background: gray;
+}
+.day4{
+    background: whitesmoke;
 }
 .grid3 img{
   margin-top: 0px;
